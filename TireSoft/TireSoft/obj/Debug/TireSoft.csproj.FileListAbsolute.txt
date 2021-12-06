@@ -1,0 +1,15 @@
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\bin\Debug\TireSoft.exe.config
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\bin\Debug\TireSoft.exe
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\bin\Debug\TireSoft.pdb
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\obj\Debug\TireSoft.csprojAssemblyReference.cache
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\obj\Debug\TireSoft.FormMain.resources
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\obj\Debug\TireSoft.Properties.Resources.resources
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\obj\Debug\TireSoft.csproj.GenerateResource.cache
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\obj\Debug\TireSoft.csproj.CoreCompileInputs.cache
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\obj\Debug\TireSoft.exe
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\obj\Debug\TireSoft.pdb
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\obj\Debug\TireSoft.FormAddInfo.resources
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\obj\Debug\TireSoft.FormExistInfo.resources
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\obj\Debug\TireSoft.FormCars.resources
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\obj\Debug\TireSoft.FormTires.resources
+C:\Users\kocaa\source\repos\TireSoft\TireSoft\obj\Debug\TireSoft.FormRepair.resources
